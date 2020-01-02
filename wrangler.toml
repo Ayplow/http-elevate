@@ -1,0 +1,6 @@
+name = "http-elevate"
+type = "javascript"
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
